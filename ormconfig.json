@@ -1,0 +1,24 @@
+{
+   "type": "mysql",
+   "host": "marmoset04.shoshin.uwaterloo.ca",
+   "port": 3306,
+   "username": "dsmiller",
+   "password": "dbGrt6IPDPNqZl9BXF^8",
+   "database": "db356_dsmiller",
+   "synchronize": false,
+   "logging": false,
+   "entities": [
+      "./../entity/index.{ts,js}"
+   ],
+   "migrations": [
+      "src/migration/**/*.ts"
+   ],
+   "subscribers": [
+      "src/subscriber/**/*.ts"
+   ],
+   "index": {
+      "entitiesDir": "src/entity",
+      "migrationsDir": "src/migration",
+      "subscribersDir": "src/subscriber"
+   }
+}
