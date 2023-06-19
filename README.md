@@ -1,6 +1,6 @@
 # London Crime Central
 
-Code written by Aurchon Datta, Devon Miller-Junk, and Braden Bakker. Database is run on marmoset ece servers. This project is completed for use in ECE 356 F2021, not to be used for other purposes.
+Code written by Aurchon Datta, Devon Miller-Junk, and Braden Bakker. Database is run on marmoset ece servers. This project is completed for use in ECE 356 F2021.
 
 ## Required Installations:
 1. Node (version 12.16.1 is guaranteed to work)
